@@ -1,0 +1,29 @@
+.responsive {
+    width: 80%;
+    height: auto;
+}
+@media only screen and (min-width: 993px){
+
+	.hide-large
+	{
+		display: block;
+	}
+	#change
+	{
+		width: 45%;
+		display: block;	
+	}	
+}
+@media only screen and (max-width: 992px){
+
+	#change
+	{
+		width: 60%;
+	}
+	.hide-large
+	{
+		display: none;
+	}
+
+}
+
