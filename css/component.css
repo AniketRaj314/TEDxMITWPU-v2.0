@@ -1577,7 +1577,7 @@
 
 .btn-8 {
 	display: block;
-	background: #5cbcf6;
+	background: #FF2B06;
 	outline: 1px solid transparent; /* FF jagged edges fix */
 	-webkit-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
@@ -1585,7 +1585,7 @@
 }
 
 .btn-8:active {
-	background: #55b7f3;
+	background: #FF2B06;
 }
 
 /* Button 8a */
@@ -1594,7 +1594,7 @@
 	height: 42%; /* should be 40% but there's a gap in Chrome Version 34.0.1847.131 */
 	left: 0;
 	top: -40%;
-	background: #49a7df;
+	background: #BE0000;
 	-webkit-transform-origin: 0% 100%;
 	-webkit-transform: rotateX(90deg);
 	-moz-transform-origin: 0% 100%;
