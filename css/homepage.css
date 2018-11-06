@@ -25,7 +25,7 @@
 	background-image: url("../images/confetti.gif");
 }
 .responsive {
-    width: 80%;
+    width: 100%;
     height: auto;
 }
 @media only screen and (min-width: 993px){
@@ -44,7 +44,7 @@
 
 	#change
 	{
-		width: 60%;
+		width: 50%;
 	}
 	.hide-large
 	{
